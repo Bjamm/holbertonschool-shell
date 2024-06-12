@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf  cat filename \'"Best School"\':) *Best School$
+rm -rf  cat filename *\\'"Best School"\\\*$\':) *Best School$
