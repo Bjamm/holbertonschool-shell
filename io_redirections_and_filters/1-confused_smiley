@@ -1,2 +1,2 @@
 #!/bin/bash
-car smiley
+cat smiley
