@@ -1,0 +1,2 @@
+#!/bin/bash
+ls /etc/shh/sshd_config |cwc $
