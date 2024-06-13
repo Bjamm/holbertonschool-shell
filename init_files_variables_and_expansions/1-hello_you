@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo hello $ sign user
+echo "hello $ sign USER"
